@@ -1,0 +1,33 @@
+Photomatic
+==========
+
+A collection of Shell Scripts for interacting with a camera using gphoto2
+
+Includes
+--------
+
+ * Tethering
+ * Image Download
+ * RAW Processing
+ * Image Wiping (Inside "DANGEROUS" Folder)
+ * EXIF Copyright Tagging
+
+Uses
+----
+
+ * gPhoto2/libgphoto2
+ * eog (eye of gnome)
+ * f-spot
+ * ufraw
+ * sh
+
+Notes
+-----
+
+I've only used it with my Nikon D3000. In theory, it should work with all cameras supported by gphoto2, but may require tweaking to correctly 
+identify file formats (i.e RAW formats)
+
+Installing
+----------
+
+Drop in any folder you like, alter the folder paths, file identifiers and copyright message
