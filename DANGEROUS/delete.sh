@@ -2,6 +2,8 @@
 
 # Copyright (c) 2008 John Watson. All rights reserved.
 # http://photodoto.com/index.php/2008/02/25/tethered-shooting-with-linux/
+# Copyright (c) 2012 Samuel Littley. All Rights Reserved
+# http://www.toastwaffle.com : samuel.littley@toastwaffle.com
 # 
 # Redistribution and use in source and binary forms, with or without modification,
 # are permitted provided that the following conditions are met:
